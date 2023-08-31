@@ -30,7 +30,12 @@ Streamline your open source project's pull request management, empowering commun
 
 > NOTE: PullEngine is under active development, all of the features listed below are theoretical and could change at any moment.
 
-<img src='https://raw.githubusercontent.com/PullEngine/.github/main/assets/readme1.png'>
-<img src='https://raw.githubusercontent.com/PullEngine/.github/main/assets/readme2.png'>
-<img src='https://raw.githubusercontent.com/PullEngine/.github/main/assets/readme3.png'>
-
+<a href="https://pullengine.io/features/pull-requests">
+  <img src='https://raw.githubusercontent.com/PullEngine/.github/main/assets/readme1.png'>
+</a>
+<a href="https://pullengine.io/features/issues">
+  <img src='https://raw.githubusercontent.com/PullEngine/.github/main/assets/readme2.png'>
+</a>
+<a href="https://pullengine.io/features/support">
+  <img src='https://raw.githubusercontent.com/PullEngine/.github/main/assets/readme3.png'>
+</a>
