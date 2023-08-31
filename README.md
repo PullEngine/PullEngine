@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-   <img width="150" height="150" src="https://raw.githubusercontent.com/PullEngine/.github/main/assets/logo-rounded.svg" alt="Logo">
+   <a href="https://pullengine.io"><img width="150" height="150" src="https://raw.githubusercontent.com/PullEngine/.github/main/assets/logo-rounded.svg" alt="Logo"></a>
   </p>
   <h1 align="center"><b>PullEngine</b></h1>
   <p align="center">
